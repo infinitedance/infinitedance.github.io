@@ -1,1 +1,1 @@
-This is a repo for demo videos.
+This is a repo for paper **InfiniteDance: Scaling Up High-Quality 3D Dance Generation**
